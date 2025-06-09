@@ -15,7 +15,7 @@ This project is a lightweight real-time object detection tool that uses [Ultraly
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/cat-siren-detector.git
+git clone https://github.com/Zekq88/AntiCat.git
 ```
 
 
