@@ -9,7 +9,7 @@ cat = 15
 model = YOLO("yolov8n.pt")
 
 # loads the model version
-results = model.predict(source=0, stream=True, show=True)
+results = model.predict(source=0, stream=True, show=True, conf=0.5)
 
 # plays the sirens
 def sirens():
